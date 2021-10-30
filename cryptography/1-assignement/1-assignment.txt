@@ -1,0 +1,63 @@
+Užduotyje rasite paprastus perstatų šifrus ir vieną keitinių šifrą. Iššifruokite juos. Pastaba: Fleisnerio kvadratas sukamas laikrodžio rodyklės judėjimo kryptimi.
+
+17 užduotis 
+1. Iššifruokite skytalės šifrą:
+
+DAKKU PŠŠNE TTDRĮ JAVLU MIŪPT 
+EŽĘON OOLĄM IITŪO AOSIU KŲKNĮ 
+VAEBE STEŽT TLIAI EMDLK AATIS 
+DAAKĖ INEJB TBORT ESARR IŠIID 
+KOOU  
+
+2. Iššifruokite perstatų šifrą:
+
+RSNST DUAĄU AEISO KRVKO BEŽRA 
+MMOĖA VŠUIM EITAJ TOLSA IIIAR 
+RNĮST RŽRSŠ BĖŠJE NAGAŠ EYOUR 
+IOUNĖ LSTAN IERIE IUVDJ ŠIPSA 
+OGŠŪS OYMIG GUITĘ ITPMT NGSĖJ 
+YAOUK SM    
+ raktas=vanduo
+
+3. Iššifruokite perstatų šifrą:
+
+UURBA YNŪGD ŲĖOIL LMSĘA OIISČ 
+AOIKS PASAT AIRKJ ŲIABA GIUOP 
+ODPVA ŽŽKUE IEPŽI AŠABK AŠDŽU 
+NERAP PGIPĖ OAGVD AOLJT ALRTT 
+KAAIT AIOTS VNREU EAJGB ĄAEIJ 
+UEITI PYOKA AUNGR IEKSS EIIUI 
+SLTRG SIMJN IUKMI 
+
+4. Iššifruokite geležinkelio tvorelės šifrą:
+
+GIIĘR JMSSS RŠAĖY SNRSR AAŠTD 
+OĖOUĄ UŠUOU ISEIL SRVJT NIBES 
+AUEIT UAIDR PŠĮTP TGAŽĖ GSYŪB 
+OOŠKM EMŽAG NSMME YUAAV RIAEI 
+MNĖOK TATAK OOLEI IIVTN INROJ 
+ŠSUJI 
+
+5. Iššifruokite 4x4 Fleisnerio šifrą
+
+DĖSTUKPAEORĖASŠL
+ANTNLYIUGEGIDPAI
+AAIAKTPTOUSVPPIK
+SKIEODTTIIOKODRS
+AIOIMUSILOPDKSSK
+KŠSULĖILSLAISKEI
+UPADVISLSĖĮIAPOĄ
+KKORPAĮĮTKTEAAME
+KOANALĖKIIĖĄVRPK
+ Rakto dalis[3, 9, 13]
+ Kvadrato laukelių nr=0,1,..
+ 
+6. Iššifruokite Dellastelio šifrą:
+YSAUV SLNEJ ČKSČČ LSAGS KTČAŽ 
+TRBBJ APČRY JZDAŽ YMRYC LZAUA 
+SKVHT TKAŽO MŽABE ODIEV SLUEJ 
+PNLGŽ NGJUŽ MLIVT FSZRA LNSEA 
+SREIJ YSSGD SYSKD OPIVI ABSSI 
+DDSSE 
+Abėcėlė:ABCČDEFGHIYJKLMNOPRSTUVZŽ
+ Raktas: laikas
