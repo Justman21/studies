@@ -1,0 +1,1 @@
+iššifruoti TEA šifrus, sudarytus ECB, CBC, OFB režimais.
